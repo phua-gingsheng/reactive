@@ -1,4 +1,4 @@
-package com.flow;
+package com.flow.sample;
 
 import org.apache.log4j.ConsoleAppender;
 import org.apache.log4j.spi.LoggingEvent;
